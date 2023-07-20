@@ -12,7 +12,7 @@ const value = [
   "J",
   "Q",
   "K",
-  "A",
+  "A"
 ];
 
 function getRandomSuit() {
